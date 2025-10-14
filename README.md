@@ -2,6 +2,12 @@ Syntax: [body] | [subtext]
 
 https://www.instagram.com/reel/DPWqAAyjBoh/?igsh=MWR5Y2RoNGdnYXNkbQ==
 
+https://github.com/treehuggeriv/archive/blob/main/README.md
+
+https://www.youtube.com/watch?v=_zfN9wnPvU0
+
+docs.github.com/en/get-started/writing-on-github/editing-and-sharing-content-with-gists/creating-gists
+
 Even the largest project can be broken down into small bits that invite your efforts. Building momentum is key; picking out a small goal or a small step is the only spark that you need
 
 You become more sensitive to suffering the more you avoid it, hedonism results in long-term vulnerability. You become defined by your desires and dependencies
