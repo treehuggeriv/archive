@@ -1,3 +1,5 @@
+Syntax: [body] | [subtext]
+
 https://www.instagram.com/reel/DPWqAAyjBoh/?igsh=MWR5Y2RoNGdnYXNkbQ==
 
 Even the largest project can be broken down into small bits that invite your efforts. Building momentum is key; picking out a small goal or a small step is the only spark that you need
