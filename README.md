@@ -8,15 +8,15 @@
     - Our most radical changes in perspective often happen at the tail end of our worst moments. It’s only when we feel intense pain that we’re willing to look at our values and question why they seem to be failing us. We need some sort of existential crisis to take an objective look at how we’ve been deriving meaning in our life, and then consider changing course. 
     - You could call it “hitting bottom” or “having an existential crisis.” I prefer to call it “weathering the shitstorm.” Choose what suits you.
     - And perhaps you’re in that kind of place right now. Perhaps you’re coming out of the most significant challenge of your life and are bewildered because everything you previously thought to be true and normal and good has turned out to be the opposite. 
-    - That’s good—that’s the beginning. I can’t stress this enough,
+    - That’s good—that’s the beginning. I can’t stress this enough,  (asfd)
 - 1000w
-    - Our most radical changes in perspective often happen at the tail end of our worst moments. It’s only when we feel intense pain that we’re willing to look at our values and question why they seem to be failing us. We need some sort of existential crisis to take an objective look at how we’ve been deriving meaning in our life, and then consider changing course. 
+    - Our most radical changes in perspective often happen at the tail end of our worst moments. It’s only when we feel intense pain that we’re willing to look at our values and question why they seem to be failing us. We need some sort of existential crisis to take an objective look at how we’ve been deriving meaning in our life, and then consider changing course.   (asfd)
     - You could call it “hitting bottom” or “having an existential crisis.” I prefer to call it “weathering the shitstorm.” Choose what suits you.
     - And perhaps you’re in that kind of place right now. Perhaps you’re coming out of the most significant challenge of your life and are bewildered because everything you previously thought to be true and normal and good has turned out to be the opposite. 
     - That’s good—that’s the beginning. I can’t stress this enough,
     - enough, but pain is part of the process. It’s important to feel it. Because if you just chase after highs to cover up th
 - 1100
-    - Our most radical changes in perspective often happen at the tail end of our worst moments. It’s only when we feel intense pain that we’re willing to look at our values and question why they seem to be failing us. We need some sort of existential crisis to take an objective look at how we’ve been deriving meaning in our life, and then consider changing course. 
+    - Our most radical changes in perspective often happen at the tail end of our worst moments. It’s only when we feel intense pain that we’re willing to look at our values and question why they seem to be failing us. We need some sort of existential crisis to take an objective look at how we’ve been deriving meaning in our life, and then consider changing course.  (asfd)
     - You could call it “hitting bottom” or “having an existential crisis.” I prefer to call it “weathering the shitstorm.” Choose what suits you.
     - And perhaps you’re in that kind of place right now. Perhaps you’re coming out of the most significant challenge of your life and are bewildered because everything you previously thought to be true and normal and good has turned out to be the opposite. 
     - That’s good—that’s the beginning. I can’t stress this enough,
