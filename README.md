@@ -1,3 +1,4 @@
+
 # Philosophical
 ## Progress
 - Goal: Ability to exert one's own abilities to their full potential, freedom to effect change
