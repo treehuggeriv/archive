@@ -1,4 +1,12 @@
 
+# Test section
+## Test subsection1
+- Point1
+  - Subpoint1
+## Test subsection2
+- Point1
+  - Subpoint1
+
 # Philosophical
 ## Progress
 - Goal: Ability to exert one's own abilities to their full potential, freedom to effect change
