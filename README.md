@@ -1,16 +1,16 @@
-
+Text must be free of (") characters to be rendered correctly
 # Philosophical
 ## Progress
 - Goal: Ability to exert one's own abilities to their full potential, freedom to effect change
   - Control and discipline as ultimate goal since that's the only thing that really matters in the long term
 - Making progress in face of hesitation:
     - The answers to the issues you're giving are the concerns of an overly neurotic dude that's afraid of inconveniencing others or getting rejected.
-    - There's a saying for the British special forces; "[he] who dares, wins".
+    - There's a saying for the British special forces; '[he] who dares, wins'.
     - The real answer is to not give a fuck how you're perceived, and just do what you gotta do to get what you want. There has to be an element of testicular fortitude where you just go out and impose your will on the dating market.
 - Worrying is an indulgence, could be thought of a time waster which comforts you momentarily but doesn't actually make you take any action
 - Lost and directionless?
     - Our most radical changes in perspective often happen at the tail end of our worst moments. It’s only when we feel intense pain that we’re willing to look at our values and question why they seem to be failing us. We need some sort of existential crisis to take an objective look at how we’ve been deriving meaning in our life, and then consider changing course. 
-    - You could call it “hitting bottom” or “having an existential crisis.” I prefer to call it “weathering the shitstorm.” Choose what suits you.
+    - You could call it 'hitting bottom' or 'having an existential crisis.' I prefer to call it 'weathering the shitstorm.' Choose what suits you.
     - And perhaps you’re in that kind of place right now. Perhaps you’re coming out of the most significant challenge of your life and are bewildered because everything you previously thought to be true and normal and good has turned out to be the opposite. 
     - That’s good—that’s the beginning. I can’t stress this enough,
     - enough, but pain is part of the process. It’s important to feel it. Because if you just chase after highs to cover up the pain, if you continue to indulge in entitlement and delusional positive thinking, if you continue to overindulge in various substances or activities, then you’ll never generate the requisite motivation to actually change.
@@ -25,7 +25,7 @@
 
 ## Perspective
 - Remember, everyone has their fair share of problems (e.g., distrust of partners for the wealthy) Grass is always greener on the other side
-- Uncertainty is a built-in part of life, need to learn how to take it easy and have fun despite this uncertainty; this is the essence of "being fun"
+- Uncertainty is a built-in part of life, need to learn how to take it easy and have fun despite this uncertainty; this is the essence of 'being fun'
   - Hence, have to take yourself less seriously and not get bitter when things don't work out
   - Still need to know how to get serious when you need to (e.g., for work) but should be able to relax during off times
 - Go live in a country (e.g., India, China) for a while in an intimate community to see that they can exhibit all the same characteristics as other nationalities
@@ -104,7 +104,7 @@
   - Long-lasting intimate bonds are built on vulnerability as it implies that both parties share human fallibility
   - Shouldn't only share success but also their secrets, doubts, fears, and past mistakes to build shared vulnerability 
 - During conversation to make it more personalized point out aspects that are odd or slightly more notable than normal. For example, little idiosyncrasies since everyone has these. Then make a reasonable assumption off of it that you can play with. 
-  - For example " there was a lot of hesitation in You answering that you're a engineer? Are you sure you graduated?". And continue along the slide by further assumptions: the principal is that if this is true then what else is true?
+  - For example ' there was a lot of hesitation in You answering that you're a engineer? Are you sure you graduated?'. And continue along the slide by further assumptions: the principal is that if this is true then what else is true?
   - The assumption or reasoning following the observation doesn't necessarily have to be funny, it just needs to be interesting. Being witty or insightful in these assumptions is the goal. Don't always try to be hilarious or else you will come up as too try hard
 - The goal for a cold approach is to find an observation that will link to a conversation topic which generates the most amount of child conversation topic threats that you are comfortable with. 
   - For example at event trying to make an observation which tempts the other party to talk to you about their career trajectory or perhaps their interests in a certain area that you are knowledgeable in will likely be most actionable
@@ -149,7 +149,7 @@
   - No homogeneous genders exist in the world, should try exploring before lumping everyone together 
   - When you truly come to accept that everyone has differences, you will start to see the true variation in the world for what it is instead of trying to cram everything into a single explanation
   - Catering to a trend often doesn't work well when you're dealing with an individual (i.e., everyone differs from the general trend and you need to account for this)
-  - "Men who try to date "women" and women who try to date "men" keep getting disappointed,"
+  - 'Men who try to date 'women' and women who try to date 'men' keep getting disappointed,'
   - Treat all genders as individuals first rather than member of that gender (i.e., be curious about them rather than tag them as an object with a label)
 - Looks vs other aspects for courtship:
   - I don’t know how you can see so many examples of guys like Biggie Smalls and Ralphie May (RIP), who pulled hot women and think that looks are everything. Typically if you’re THAT GUY in whatever social setting, women will work to become your girl because then they get acknowledged as THAT BITCH who pulled THEE GUY. 
@@ -169,7 +169,7 @@
   - But would first need to turn meditation into an instinctive habit so that relying on it for reset becomes possible
   
 # Archive
-- Rudyard Kipling's "If", on how to perceive both success and failures:
+- Rudyard Kipling's 'If', on how to perceive both success and failures:
 	If you can keep your head when all about you   
 		Are losing theirs and blaming it on you,   
 	If you can trust yourself when all men doubt you,
