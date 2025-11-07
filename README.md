@@ -5,6 +5,7 @@ Text must be free of (") characters to be rendered correctly. Top level sections
 - Fantasizing about your future throne is the silent thief that robs you of ever building it
   - Lusting after the crown keeps you a peasant
   - Daydreams of victory are the tax you pay for never fighting
+- Time is your most valuable asset, especially during youth when potential is limitless. Lost time is never found again. Each hour lost is a door forever closed.
 - Hesitation slows you down:
     - The answers to the issues you're giving are the concerns of an overly neurotic dude that's afraid of inconveniencing others or getting rejected.
     - There's a saying for the British special forces; '[he] who dares, wins'.
