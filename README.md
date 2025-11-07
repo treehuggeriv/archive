@@ -1,15 +1,18 @@
 Text must be free of (") characters to be rendered correctly. Top level sections are based on type of action rather than strictly based on content lesson
 # Making a move
 ## Forward
+- If your mind is dull from misuse and rusted from fantasizing, you'll wake up one day realizing that the opportunity has already passed
+- Fantasizing about your future throne is the silent thief that robs you of ever building it
+  - Lusting after the crown keeps you a peasant
+  - Daydreams of victory are the tax you pay for never fighting
 - Hesitation slows you down:
     - The answers to the issues you're giving are the concerns of an overly neurotic dude that's afraid of inconveniencing others or getting rejected.
     - There's a saying for the British special forces; '[he] who dares, wins'.
     - The real answer is to not give a fuck how you're perceived, and just do what you gotta do to get what you want. There has to be an element of testicular fortitude where you just go out and impose your will.
 - Worrying is an indulgence, could be thought of a time waster which comforts you momentarily but doesn't actually make you take any action
+  - We suffer more in imagination than in reality - Seneca
+  - No amount of anxiety makes any difference to anything that is going to happen - Allan Watts
 - Even the largest project can be broken down into small bits that invite your efforts. Building momentum is key; picking out a small goal or a small step is the only spark that you need
-- If your mind is dull from misuse and rusted from fantasizing, you'll wake up one day realizing that the opportunity has already passed
-- We suffer more in imagination than in reality - Seneca
-- No amount of anxiety makes any difference to anything that is going to happen - Allan Watts
 
 ## Persistence/Discipline
 - You become more sensitive to suffering the more you avoid it, hedonism results in long-term vulnerability. You become defined by your desires and dependencies
