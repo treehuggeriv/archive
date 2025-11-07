@@ -6,6 +6,7 @@ Text must be free of (") characters to be rendered correctly. Top level sections
   - Lusting after the crown keeps you a peasant
   - Daydreams of victory are the tax you pay for never fighting
 - Time is your most valuable asset, especially during youth when potential is limitless. Lost time is never found again. Each hour lost is a door forever closed.
+	- Games, reels, and meaningless comparisons are worse time investments than failing
 - Hesitation slows you down:
     - The answers to the issues you're giving are the concerns of an overly neurotic dude that's afraid of inconveniencing others or getting rejected.
     - There's a saying for the British special forces; '[he] who dares, wins'.
@@ -22,6 +23,12 @@ Text must be free of (") characters to be rendered correctly. Top level sections
   - Sacrifice is inevitable but choice isn't so choose your sacrifice.
   - JP
 - No man is free who cannot control himself - Pythagoras
+- Confidence in your ability to consistently deliver will free you from insecurity. Only doubt prevents you from standing firmly.
+	- People may chase money/status but many are only chasing for the confidence that they think money/status will give them which dissappears as soon as money/status is threatened
+	- But the only way to create true confidence is through patterns, which are created through cold repetition rather than short bursts of passion
+- Insecurity seeps into every gesture. Overcome your weaknesses or make peace with them; the world has no cradle for the hesitant.
+	- Even a glimpse is enough to alter others' perception since someone without these insecurities would be so far removed from these behaviours
+
 
 # Perspective
 - Remember, everyone has their fair share of problems (e.g., distrust of partners for the wealthy) Grass is always greener on the other side
@@ -37,6 +44,7 @@ Text must be free of (") characters to be rendered correctly. Top level sections
 - Leader position is determined by the size and stability of his coalition (i.e., those that support him) rather than upon his strength alone 
   - Hence, power should be gained by forming ties with others rather than purely through technical strength - Sapiens 
   - Technical strength can serve as a bridge to forming ties as you can occupy coveted positions based on others needs of which only you can fulfill due to your ability 
+
 
 # Philosophical 
 ## Comparison:
@@ -121,7 +129,8 @@ Text must be free of (") characters to be rendered correctly. Top level sections
 	Numerical in the context of analytical vs numerical 
 
 
-# Relationship
+# Relations
+- At no point can you be dependent on them for validation or approval. Seeking validation reflects a lack of belief in your own worth/judgment. And if you don't believe in your own worth, why should others
 - Having general kindness and empathy is what every person should have, but using that as your method of attraction will only get you rejections because it doesn't emotionally spike interest.
 - Don't talk about expectations of relationship if casual or early on unless really hoping for it to turn serious 
 - Should keep talking even if date already set up, otherwise interest tends to decay
@@ -136,7 +145,8 @@ Text must be free of (") characters to be rendered correctly. Top level sections
   - A good opener should land you comfortably within emotional strata, can work way into sexual afterwards since starting off with that may be too awkward
 - Control over sex is a significant point of leverage 
   - Many of their actions can be derived from this (e.g., makeup, dresses) 
-  - You can liberate yourself you don't seek what they have
+  - You can liberate yourself if you don't seek what they have, otherwise all the power rests with them and you become needy
+  - If you're more interested in understanding their complexities as a person, then there's less leverage, more connection, and probably more sex too
 - Incorrect generalizations come out of inexperience in the field
   - No homogeneous genders exist in the world, should try exploring before lumping everyone together 
   - When you truly come to accept that everyone has differences, you will start to see the true variation in the world for what it is instead of trying to cram everything into a single explanation
