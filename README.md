@@ -130,6 +130,7 @@ Text must be free of (") characters to be rendered correctly. Top level sections
 
 
 # Relations
+- You don't necessarily need to have many things in common with her, only enough to allow you to understand her worldview and to form an opinion on it for further discussion
 - At no point can you be dependent on them for validation or approval. Seeking validation reflects a lack of belief in your own worth/judgment. And if you don't believe in your own worth, why should others
 - Having general kindness and empathy is what every person should have, but using that as your method of attraction will only get you rejections because it doesn't emotionally spike interest.
 - Don't talk about expectations of relationship if casual or early on unless really hoping for it to turn serious 
